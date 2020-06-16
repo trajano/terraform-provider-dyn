@@ -12,6 +12,8 @@ The Dyn provider is used to interact with the
 resources supported by Dyn. The provider needs to be configured
 with the proper credentials before it can be used.
 
+This only works with the [Managed DNS Service](https://help.dyn.com/dns-knowledge-base/) and will **not** with neither Dynamic DNS nor Standard DNS offerings.
+
 Use the navigation to the left to read about the available resources.
 
 ## Example Usage
